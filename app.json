@@ -1,0 +1,10 @@
+{
+  "name": "Caravel on Heroku",
+  "description": "Data exploration platform designed to be visual, intuitive, and interactive",
+  "logo": "https://cdn.rawgit.com/airbnb/caravel/master/caravel/assets/images/caravel_logo.png",
+  "repository": "https://github.com/neevany/caravel-on-heroku",
+  "addons": [
+    "jawsdb",
+    "papertrail"
+  ]
+}
