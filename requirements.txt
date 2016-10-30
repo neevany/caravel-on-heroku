@@ -1,2 +1,2 @@
-caravel==0.10.0
+caravel==0.12.0
 mysqlclient==1.3.7
